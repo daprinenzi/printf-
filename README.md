@@ -104,9 +104,3 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### [16. * ]
 * All the above options work well together.
-
----
-
-### Authors
-* **Tu Vo** - [tuvo1106@gmail.com](https://github.com/tuvo1106)
-* **Laura Roudge** - [laura.derohan@gmail.com](https://github.com/lroudge)
